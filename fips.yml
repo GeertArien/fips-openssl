@@ -1,0 +1,6 @@
+#
+# fips-openssl
+#
+---
+exports:
+  header-dirs: [ '.', 'openssl' ]
