@@ -11,3 +11,7 @@ libcurlssl.a has been created like this:
 3. ./config no-shared
 5. make
 6. the resulting libs are libcrypto.a and libssl.a
+
+### Dependencies
+
+Requires linking with __libdl__.
